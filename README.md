@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arti Maske</h1>
 <h3 align="center">I may not be perfect but all parts of me are excellent...</h3>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
 - 📫 How to reach me **artimaske20@gmail.com**
 
 - ⚡ Fun fact **I think I am funny..**
@@ -17,4 +19,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=artimaske&show_icons=true&locale=en&layout=compact" alt="artimaske" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushboogoel01&show_icons=true&locale=en" alt="khushboogoel01" /></p>
+
